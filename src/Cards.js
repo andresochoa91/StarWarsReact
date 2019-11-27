@@ -3,7 +3,7 @@ import ImagesCollection from './ImagesCollection';
 
 const Cards = ({ person }) => {
 	return(
-		<div>
+		<div className="white o-90 bg-navy dib br3 pa3 ma2 grow bw2 shadow-5">
 			<ImagesCollection person = {person.name}/>		
 			<h2>Name: { person.name }</h2>
 			<h4>Height: { person.height }</h4>
