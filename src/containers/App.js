@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import './App.css';
-import CardsList from './CardsList';
-import DropDown from './DropDown';
+import '../App.css';
+import CardsList from '../components/CardsList';
+import DropDown from '../components/DropDown';
 import "tachyons";
 
 class App extends Component {
@@ -31,7 +31,7 @@ class App extends Component {
     )
   }
 
-  async componentDidMount(){              
+  componentDidMount(){              
     fetch("https://swapi.co/api/people")
       .then(result => result.json())
       .then(data => this.setState({people2: data.results}))                            
