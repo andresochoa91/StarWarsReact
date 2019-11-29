@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/StarWarsReactFinal/static/css/main.c568845b.chunk.css",
-    "main.js": "/StarWarsReactFinal/static/js/main.7e151106.chunk.js",
-    "main.js.map": "/StarWarsReactFinal/static/js/main.7e151106.chunk.js.map",
-    "runtime-main.js": "/StarWarsReactFinal/static/js/runtime-main.7f756b21.js",
-    "runtime-main.js.map": "/StarWarsReactFinal/static/js/runtime-main.7f756b21.js.map",
-    "static/css/2.299a5230.chunk.css": "/StarWarsReactFinal/static/css/2.299a5230.chunk.css",
-    "static/js/2.690a5154.chunk.js": "/StarWarsReactFinal/static/js/2.690a5154.chunk.js",
-    "static/js/2.690a5154.chunk.js.map": "/StarWarsReactFinal/static/js/2.690a5154.chunk.js.map",
-    "index.html": "/StarWarsReactFinal/index.html",
-    "precache-manifest.46f67fa1f579a1e693dd43e19d3a8580.js": "/StarWarsReactFinal/precache-manifest.46f67fa1f579a1e693dd43e19d3a8580.js",
-    "service-worker.js": "/StarWarsReactFinal/service-worker.js",
-    "static/css/2.299a5230.chunk.css.map": "/StarWarsReactFinal/static/css/2.299a5230.chunk.css.map",
-    "static/css/main.c568845b.chunk.css.map": "/StarWarsReactFinal/static/css/main.c568845b.chunk.css.map"
+    "main.css": "/StarWarsReact/static/css/main.c568845b.chunk.css",
+    "main.js": "/StarWarsReact/static/js/main.db304839.chunk.js",
+    "main.js.map": "/StarWarsReact/static/js/main.db304839.chunk.js.map",
+    "runtime-main.js": "/StarWarsReact/static/js/runtime-main.0e6ae261.js",
+    "runtime-main.js.map": "/StarWarsReact/static/js/runtime-main.0e6ae261.js.map",
+    "static/css/2.299a5230.chunk.css": "/StarWarsReact/static/css/2.299a5230.chunk.css",
+    "static/js/2.690a5154.chunk.js": "/StarWarsReact/static/js/2.690a5154.chunk.js",
+    "static/js/2.690a5154.chunk.js.map": "/StarWarsReact/static/js/2.690a5154.chunk.js.map",
+    "index.html": "/StarWarsReact/index.html",
+    "precache-manifest.86d4ca196c18e16163f7de3b17e2b67c.js": "/StarWarsReact/precache-manifest.86d4ca196c18e16163f7de3b17e2b67c.js",
+    "service-worker.js": "/StarWarsReact/service-worker.js",
+    "static/css/2.299a5230.chunk.css.map": "/StarWarsReact/static/css/2.299a5230.chunk.css.map",
+    "static/css/main.c568845b.chunk.css.map": "/StarWarsReact/static/css/main.c568845b.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f756b21.js",
+    "static/js/runtime-main.0e6ae261.js",
     "static/css/2.299a5230.chunk.css",
     "static/js/2.690a5154.chunk.js",
     "static/css/main.c568845b.chunk.css",
-    "static/js/main.7e151106.chunk.js"
+    "static/js/main.db304839.chunk.js"
   ]
 }
